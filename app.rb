@@ -20,6 +20,6 @@ end
 
 class App < Sinatra::Base
   get '/favorite-song' do
-    "Hello, World!"
+    "My favorite song is 2002 by Anne Marie"
   end
 end
